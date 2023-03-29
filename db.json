@@ -1,0 +1,24 @@
+{
+  "products":[
+    {"id":1,"name":"Lesser mouse lemur","category":"Goldenrod"},
+    {"id":2,"name":"Fox, blue","category":"Teal"},
+    {"id":3,"name":"Bandicoot, southern brown","category":"Aquamarine"},
+    {"id":4,"name":"Turkey vulture","category":"Fuscia"},
+    {"id":5,"name":"Mongoose, banded","category":"Teal"},
+    {"id":6,"name":"Starling, greater blue-eared","category":"Indigo"},
+    {"id":7,"name":"House sparrow","category":"Indigo"},
+    {"id":8,"name":"Chameleon (unidentified)","category":"Violet"},
+    {"id":9,"name":"Cat, cape wild","category":"Fuscia"},
+    {"id":10,"name":"Bear, american black","category":"Fuscia"},
+    {"id":11,"name":"North American river otter","category":"Violet"},
+    {"id":12,"name":"Three-banded plover","category":"Blue"},
+    {"id":13,"name":"Pigeon, wood","category":"Crimson"},
+    {"id":14,"name":"African snake (unidentified)","category":"Puce"},
+    {"id":15,"name":"Siskin, pine","category":"Khaki"},
+    {"id":16,"name":"Bee-eater, carmine","category":"Mauv"},
+    {"id":17,"name":"Griffon vulture","category":"Aquamarine"},
+    {"id":18,"name":"White-nosed coatimundi","category":"Green"},
+    {"id":19,"name":"Kingfisher, malachite","category":"Yellow"},
+    {"id":20,"name":"Coatimundi, ring-tailed","category":"Blue"}
+  ]
+}
